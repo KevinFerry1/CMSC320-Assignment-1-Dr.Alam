@@ -12,3 +12,7 @@ project data, probably in hard to cipher files, having a dashboard with visuals 
 Q3: What is the difference between merging and rebasing?
 
 Answer: rebasing rewrites history where as merging combines two branches and makes a merge commit.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my statistics and learn basics of machine learning.
