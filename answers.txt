@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied the construction or project controls industry. With an abundance of
+project data, probably in hard to cipher files, having a dashboard with visuals of your data is extremely helpful
