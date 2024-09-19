@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: The ability to have version history and go back if you mess up, save your code safely, 
+very needed when working in a group.
